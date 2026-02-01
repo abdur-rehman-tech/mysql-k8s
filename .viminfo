@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1769930782,,"wq"
+|2,0,1769932872,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,75 +25,237 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/mysql/apply
-|4,48,1,0,1769930782,"~/mysql/apply"
-'1  38  21  ~/mysql/stateful.yml
-|4,49,38,21,1769929596,"~/mysql/stateful.yml"
-'2  38  21  ~/mysql/stateful.yml
-|4,50,38,21,1769929596,"~/mysql/stateful.yml"
-'3  12  16  ~/mysql/service.yml
-|4,51,12,16,1769929526,"~/mysql/service.yml"
-'4  12  16  ~/mysql/service.yml
-|4,52,12,16,1769929526,"~/mysql/service.yml"
-'5  35  37  ~/mysql/stateful.yml
-|4,53,35,37,1769929177,"~/mysql/stateful.yml"
-'6  34  37  ~/mysql/stateful.yml
-|4,54,34,37,1769929177,"~/mysql/stateful.yml"
-'7  35  37  ~/mysql/stateful.yml
-|4,55,35,37,1769929177,"~/mysql/stateful.yml"
-'8  34  37  ~/mysql/stateful.yml
-|4,56,34,37,1769929177,"~/mysql/stateful.yml"
+'0  27  35  ~/mysql/stateful.yml
+|4,48,27,35,1769932872,"~/mysql/stateful.yml"
+'1  7  30  ~/mysql/secert.yml
+|4,49,7,30,1769932734,"~/mysql/secert.yml"
+'2  7  26  ~/mysql/secert.yml
+|4,50,7,26,1769932612,"~/mysql/secert.yml"
+'3  30  23  ~/mysql/stateful.yml
+|4,51,30,23,1769932281,"~/mysql/stateful.yml"
+'4  27  23  ~/mysql/stateful.yml
+|4,52,27,23,1769932281,"~/mysql/stateful.yml"
+'5  32  30  ~/mysql/stateful.yml
+|4,53,32,30,1769932226,"~/mysql/stateful.yml"
+'6  32  30  ~/mysql/stateful.yml
+|4,54,32,30,1769932226,"~/mysql/stateful.yml"
+'7  29  30  ~/mysql/stateful.yml
+|4,55,29,30,1769932226,"~/mysql/stateful.yml"
+'8  29  30  ~/mysql/stateful.yml
+|4,56,29,30,1769932226,"~/mysql/stateful.yml"
+'9  32  30  ~/mysql/stateful.yml
+|4,57,32,30,1769932186,"~/mysql/stateful.yml"
 
 # Jumplist (newest first):
--'  1  0  ~/mysql/apply
-|4,39,1,0,1769930782,"~/mysql/apply"
--'  38  21  ~/mysql/stateful.yml
-|4,39,38,21,1769929596,"~/mysql/stateful.yml"
--'  38  21  ~/mysql/stateful.yml
-|4,39,38,21,1769929596,"~/mysql/stateful.yml"
--'  35  37  ~/mysql/stateful.yml
-|4,39,35,37,1769929533,"~/mysql/stateful.yml"
--'  35  37  ~/mysql/stateful.yml
-|4,39,35,37,1769929533,"~/mysql/stateful.yml"
--'  12  16  ~/mysql/service.yml
-|4,39,12,16,1769929526,"~/mysql/service.yml"
--'  12  16  ~/mysql/service.yml
-|4,39,12,16,1769929526,"~/mysql/service.yml"
--'  12  16  ~/mysql/service.yml
-|4,39,12,16,1769929526,"~/mysql/service.yml"
--'  1  0  ~/mysql/service.yml
-|4,39,1,0,1769929190,"~/mysql/service.yml"
--'  1  0  ~/mysql/service.yml
-|4,39,1,0,1769929190,"~/mysql/service.yml"
--'  1  0  ~/mysql/service.yml
-|4,39,1,0,1769929190,"~/mysql/service.yml"
--'  34  37  ~/mysql/stateful.yml
-|4,39,34,37,1769929177,"~/mysql/stateful.yml"
--'  34  37  ~/mysql/stateful.yml
-|4,39,34,37,1769929177,"~/mysql/stateful.yml"
--'  34  37  ~/mysql/stateful.yml
-|4,39,34,37,1769929177,"~/mysql/stateful.yml"
--'  1  0  ~/mysql/stateful.yml
-|4,39,1,0,1769928635,"~/mysql/stateful.yml"
--'  1  0  ~/mysql/stateful.yml
-|4,39,1,0,1769928635,"~/mysql/stateful.yml"
--'  1  0  ~/mysql/stateful.yml
-|4,39,1,0,1769928635,"~/mysql/stateful.yml"
--'  1  0  ~/mysql/stateful.yml
-|4,39,1,0,1769928635,"~/mysql/stateful.yml"
+-'  27  35  ~/mysql/stateful.yml
+|4,39,27,35,1769932872,"~/mysql/stateful.yml"
+-'  30  23  ~/mysql/stateful.yml
+|4,39,30,23,1769932787,"~/mysql/stateful.yml"
+-'  7  30  ~/mysql/secert.yml
+|4,39,7,30,1769932734,"~/mysql/secert.yml"
+-'  7  30  ~/mysql/secert.yml
+|4,39,7,30,1769932734,"~/mysql/secert.yml"
+-'  7  26  ~/mysql/secert.yml
+|4,39,7,26,1769932612,"~/mysql/secert.yml"
+-'  7  26  ~/mysql/secert.yml
+|4,39,7,26,1769932612,"~/mysql/secert.yml"
+-'  1  0  ~/mysql/secert.yml
+|4,39,1,0,1769932549,"~/mysql/secert.yml"
+-'  1  0  ~/mysql/secert.yml
+|4,39,1,0,1769932549,"~/mysql/secert.yml"
+-'  1  0  ~/mysql/secert.yml
+|4,39,1,0,1769932549,"~/mysql/secert.yml"
+-'  1  0  ~/mysql/secert.yml
+|4,39,1,0,1769932549,"~/mysql/secert.yml"
+-'  27  23  ~/mysql/stateful.yml
+|4,39,27,23,1769932281,"~/mysql/stateful.yml"
+-'  27  23  ~/mysql/stateful.yml
+|4,39,27,23,1769932281,"~/mysql/stateful.yml"
+-'  27  23  ~/mysql/stateful.yml
+|4,39,27,23,1769932281,"~/mysql/stateful.yml"
+-'  27  23  ~/mysql/stateful.yml
+|4,39,27,23,1769932281,"~/mysql/stateful.yml"
+-'  32  30  ~/mysql/stateful.yml
+|4,39,32,30,1769932264,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932264,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932264,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932264,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932264,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932226,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932226,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932226,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932226,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932186,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932186,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932186,"~/mysql/stateful.yml"
+-'  29  30  ~/mysql/stateful.yml
+|4,39,29,30,1769932186,"~/mysql/stateful.yml"
+-'  44  21  ~/mysql/stateful.yml
+|4,39,44,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  41  21  ~/mysql/stateful.yml
+|4,39,41,21,1769932009,"~/mysql/stateful.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
+-'  7  23  ~/mysql/configMap.yml
+|4,39,7,23,1769931961,"~/mysql/configMap.yml"
 
 # History of marks within files (newest to oldest):
 
-> ~/mysql/apply
-	*	1769930778	0
-	"	1	0
-
 > ~/mysql/stateful.yml
-	*	1769929594	0
-	"	38	21
-	^	38	22
-	.	7	27
-	+	38	21
+	*	1769932870	0
+	"	27	35
+	^	27	36
+	.	27	35
+	+	44	21
 	+	1	30
 	+	1	64
 	+	1	87
@@ -109,12 +271,40 @@
 	+	18	18
 	+	19	23
 	+	21	28
-	+	26	22
-	+	28	25
-	+	30	0
-	+	33	21
+	+	29	22
+	+	34	25
 	+	36	0
+	+	39	21
+	+	42	0
 	+	7	27
+	+	29	21
+	+	33	0
+	+	30	10
+	+	31	34
+	+	32	30
+	+	30	23
+	+	27	30
+	+	25	22
+	+	26	29
+	+	27	35
+
+> ~/mysql/secert.yml
+	*	1769932732	0
+	"	7	30
+	^	7	31
+	.	7	30
+	+	7	30
+
+> ~/mysql/configMap.yml
+	*	1769931959	0
+	"	7	23
+	^	7	24
+	.	7	23
+	+	7	23
+
+> ~/mysql/apply
+	*	1769930778	0
+	"	1	0
 
 > ~/mysql/service.yml
 	*	1769929524	0

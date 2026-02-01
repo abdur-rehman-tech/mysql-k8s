@@ -42,3 +42,72 @@ clear
 kubectl exec -it mysql-stateful-0 -n mysql -- bash
 cd ..
 docker ls
+kind get clusters
+cd mysql/
+ls
+vim apply -f service.yml -f stateful.yml 
+kubectl apply -f service.yml -f stateful.yml 
+cat service.yml 
+cat stateful.yml 
+kubectl apply -f service.yml 
+cd ..
+git init
+git commit -m "sql with stateful sets in k8s"
+git branch -M main
+git remote add origin https://github.com/abdur-rehman-tech/mysql-k8s.git
+git push -u origin main
+git add .
+git commit -m "sql with stateful sets in k8s"
+git push -u origin main
+clear
+kind get clusters
+cd mysql/
+kubectl apply -f service.yml 
+kubectl apply -f stateful.yml 
+kubectl get svc -n mysql
+kubectl get pods -n mysql
+kubectl exec -it mysql-stateful-0 -n mysql -- bash
+kubectl delete -it mysql-stateful-0 -n mysql -- bash
+kubectl delete -it mysql-stateful-0 -n mysql
+clear
+kubectl delete mysql-stateful-0 -n mysql
+kubectl get pods -n mysql
+kubectl delete pod mysql-stateful-0 -n mysql
+kubectl get pods -n mysql
+clear
+kubectl get pods -n mysql
+clear
+kubectl get pods -n mysql
+vim configMap.yml
+kubectl apply -f configMap.yml 
+kubectl get configmap -n mysql
+vim stateful.yml 
+kubectl apply -f stateful.yml 
+vim stateful.yml 
+cat stateful.yml 
+clear
+vim stateful.yml 
+kubectl apply -f stateful.yml 
+kubectl get statefulset -n mysql
+kubectl delete statefulset/mysql-stateful -n mysql
+kubectl apply -f stateful.yml 
+kubectl get statefulset -n mysql
+kubectl get pods -n mysql
+kubectl delete pod mysql-stateful-2 -n mysql
+kubectl get pods -n mysql
+kubectl get statefulset -n mysql
+kubectl get pods -n mysql
+clear
+vim secert.yml
+echo "rootpassword" | base64
+echo "root" | base64
+vim secert.yml
+vim stateful.yml 
+kubectl apply -f secert.yml 
+ping google.com
+clear
+kubectl apply -f secert.yml 
+kind get clusters
+kubectl apply -f secert.yml 
+clear
+cd ..
