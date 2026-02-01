@@ -22,7 +22,7 @@ spec:
         env:
         - name: MYSQL_ROOT_PASSWORD
           valueFrom:
-           secertKeyRef:
+           secretKeyRef:
             name: mysql-secert
             key: MYSQL_ROOT_PASSWORD
         - name: MYSQL_DATABASE
